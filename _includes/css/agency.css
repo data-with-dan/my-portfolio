@@ -356,7 +356,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0 0 30px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -391,6 +391,7 @@ section h3.section-subheading {
     text-align: center;
     font-size: 20px;
     color: #fff;
+    transform: translateY(-50%);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
