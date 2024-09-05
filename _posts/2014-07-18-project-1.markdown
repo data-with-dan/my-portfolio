@@ -1,6 +1,6 @@
 ---
 title: Drug Classification
-subtitle: Kaggle
+subtitle: Kaggle Project
 layout: default
 modal-id: null
 date: 2024-09-04
