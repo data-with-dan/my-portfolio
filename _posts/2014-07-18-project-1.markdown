@@ -7,7 +7,6 @@ date: 2024-09-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
 category: Machine Learning
 description: This project uses machine learning algorithms to classify drugs based on provided features. The dataset includes various attributes, and models like SVM and Decision Trees are explored.
 link: https://github.com/data-with-dan/DrugClassification/blob/4ce9c58d0934e515d5aed36cafab4402b22aefed/DrugClassification.ipynb
