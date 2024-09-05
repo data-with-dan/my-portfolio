@@ -2,7 +2,7 @@
 title: Drug Classification
 subtitle: Kaggle
 layout: default
-modal-id: 1
+modal-id: null
 date: 2024-09-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
