@@ -27,16 +27,5 @@
                 </div>
             </div>
         </div>
-    {% else %}
-        <!-- No modal, link directly to the project -->
-        <div class="portfolio-item">
-            <a href="{{ post.link }}" target="_blank">
-                <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                <div class="portfolio-caption">
-                    <h4>{{ post.title }}</h4>
-                    <p class="text-muted">{{ post.category }}</p>
-                </div>
-            </a>
-        </div>
     {% endif %}
 {% endfor %}
