@@ -4,8 +4,8 @@ subtitle: Kaggle Project
 layout: default
 modal-id: null
 date: 2024-09-04
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: drug-classification-thumbnail.png
+thumbnail: drug-classification-thumbnail.png
 alt: image-alt
 category: Machine Learning
 description: This project uses machine learning algorithms to classify drugs based on provided features. The dataset includes various attributes, and models like SVM and Decision Trees are explored.
