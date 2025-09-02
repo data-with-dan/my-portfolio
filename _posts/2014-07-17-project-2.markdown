@@ -4,8 +4,8 @@ subtitle: "Distinguishing Birds from Airplanes Using Speed and Acceleration"
 layout: default
 modal-id: null
 date: 2025-09-02
-img: "naive-bayes-radar-thumbnail.png"
-thumbnail: "naive-bayes-radar-thumbnail.png"
+img: "NaivePic.png"
+thumbnail: "NaivePic.png"
 alt: "Radar track classification thumbnail"
 category: "Machine Learning"
 description: >-
