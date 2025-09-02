@@ -5,8 +5,8 @@ layout: default
 modal-id: null
 date: 2025-09-02
 img: drug-classification-thumbnail.png
-thumbnail: drug-classification-thumbnail.png
-alt: image-alt
+thumbnail: 
+alt: 
 category: Machine Learning
 description: This project applies a Naive Bayesian classifier to radar velocity traces to address a real-world aviation safety problem: preventing bird–aircraft collisions. Using likelihood distributions for speed and Gaussian models of acceleration, the classifier recursively updates posterior probabilities with conservative transition rules. Initial results using speed alone reached 90% accuracy, while incorporating acceleration improved performance to 100% across 10 test tracks. The project demonstrates the power of Bayesian reasoning and feature engineering in signal classification tasks.
 link: https://github.com/data-with-dan/NaiveBayesianClassification/blob/main/Naive%20Bayesian%20Classifier.ipynb
