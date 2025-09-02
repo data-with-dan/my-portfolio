@@ -1,14 +1,18 @@
 ---
-title: Naive Bayesian Classification of Radar Tracks
-subtitle: Distinguishing Birds from Airplanes Using Speed and Acceleration
+title: "Naive Bayesian Classification of Radar Tracks"
+subtitle: "Distinguishing Birds from Airplanes Using Speed and Acceleration"
 layout: default
 modal-id: null
 date: 2025-09-02
-img: drug-classification-thumbnail.png
-thumbnail: 
-alt: 
-category: Machine Learning
-description: This project applies a Naive Bayesian classifier to radar velocity traces to address a real-world aviation safety problem: preventing bird–aircraft collisions. 
-link: https://github.com/data-with-dan/NaiveBayesianClassification/blob/main/Naive%20Bayesian%20Classifier.ipynb
+img: "naive-bayes-radar-thumbnail.png"
+thumbnail: "naive-bayes-radar-thumbnail.png"
+alt: "Radar track classification thumbnail"
+category: "Machine Learning"
+description: >-
+  This project applies a Naive Bayesian classifier to radar velocity traces to address a real-world
+  aviation safety problem—preventing bird–aircraft collisions. Speed likelihoods are combined with
+  Gaussian acceleration likelihoods and conservative transition updates. Accuracy improved from 90%
+  (speed only) to 100% with acceleration across 10 test tracks.
+link: "https://github.com/data-with-dan/NaiveBayesianClassification/blob/main/Naive%20Bayesian%20Classifier.ipynb"
 
 ---
