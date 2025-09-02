@@ -1,6 +1,6 @@
 ---
 title: "Naive Bayesian Classification of Radar Tracks"
-subtitle: "Distinguishing Birds from Airplanes Using Speed and Acceleration"
+subtitle: "Distinguishing Birds from Airplanes"
 layout: default
 modal-id: null
 date: 2025-09-02
