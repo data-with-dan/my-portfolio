@@ -1,5 +1,5 @@
 ---
-title: "Naive Bayesian Classification of Radar Tracks"
+title: "Naive Bayesian Classification"
 subtitle: "Distinguishing Birds from Airplanes"
 layout: default
 modal-id: null
