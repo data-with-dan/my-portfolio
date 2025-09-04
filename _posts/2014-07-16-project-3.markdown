@@ -1,15 +1,15 @@
 ---
-title: Proect 3
-subtitle: tbd
+title: "Review Sentiment Classifier"
+subtitle: "BoW vs TF-IDF for Text Classification"
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+modal-id: null
+date: 2025-09-04
+img: "SentimentPic.png"
+thumbnail: "SentimentPic.png"
+alt: "Radar track classification thumbnail"
+category: "Machine Learning"
+description: >-
+  This project builds a sentiment classifier for text reviews using supervised machine learning models: Logistic Regression, Multi-Layer Perceptron, and Support Vector Machine. By comparing Bag-of-Words and TF-IDF vectorization techniques, the project identifies the most effective pipeline for accurately predicting review polarity. 
+link: "https://github.com/data-with-dan/ClassifyingReviewSentiment/blob/main/SentimentClassifier.ipynb"
 
 ---
