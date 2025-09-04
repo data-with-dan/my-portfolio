@@ -4,9 +4,9 @@ subtitle: "BoW vs TF-IDF for Text Classification"
 layout: default
 modal-id: null
 date: 2025-09-04
-img: "SentimentPic.png"
-thumbnail: "SentimentPic.png"
-alt: "SentimentPic.png"
+img: "SentimentPic.jpg"
+thumbnail: "SentimentPic.jpg"
+alt: "SentimentPic.jpg"
 category: "Machine Learning"
 description: >-
   This project builds a sentiment classifier for text reviews using supervised machine learning models: Logistic Regression, Multi-Layer Perceptron, and Support Vector Machine. By comparing Bag-of-Words and TF-IDF vectorization techniques, the project identifies the most effective pipeline for accurately predicting review polarity. 
