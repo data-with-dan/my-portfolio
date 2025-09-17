@@ -1,5 +1,5 @@
 ---
-title: Drug Classification
+title: Drug Classification Project
 subtitle: Kaggle Project
 layout: default
 modal-id: null
