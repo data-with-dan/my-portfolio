@@ -1,5 +1,5 @@
 ---
-title: Drug Classification
+title: Predictive Drug Classification
 subtitle: Exploring a Kaggle Dataset
 layout: default
 modal-id: null
