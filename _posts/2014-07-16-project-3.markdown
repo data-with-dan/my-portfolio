@@ -1,6 +1,6 @@
 ---
 title: "Review Sentiment Classifier"
-subtitle: "BoW vs TF-IDF for Text Classification"
+subtitle: "BoW v.s. TF-IDF"
 layout: default
 modal-id: null
 date: 2025-09-04
