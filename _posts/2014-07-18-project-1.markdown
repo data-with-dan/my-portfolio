@@ -1,6 +1,6 @@
 ---
-title: Drug Classification Project
-subtitle: Kaggle Project
+title: Drug Classification
+subtitle: Exploring a Kaggle Dataset
 layout: default
 modal-id: null
 date: 2024-09-04
